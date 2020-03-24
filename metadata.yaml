@@ -1,0 +1,36 @@
+_repo: Le-songe-d-une-femme-roman-familier_61642
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - Gourmont, Remi de
+    - Coffe, M.
+    - Drexelius, J.
+    - Gourmont, Remye
+    - De Gourmont, Remy
+    - Le Danois, N.
+    - Gourmont, Rémy de
+    - L'Ymagier
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+    - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
+description: ''
+gutenberg_issued: '2020-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61642'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Le songe d''une femme
+
+  roman familier'
+url: http://www.gutenberg.org/ebooks/61642
